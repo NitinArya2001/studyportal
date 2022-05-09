@@ -3,6 +3,6 @@
 
 Database Schema of Project
 
-![image](https://user-images.githubusercontent.com/65280321/127781377-c223d9c7-512b-4fb1-b7b4-4564b0e06855.png)
 
 
+![image](https://user-images.githubusercontent.com/85936367/167344201-f729ffc1-c0f1-4268-94b8-2f5cc663d199.png)
